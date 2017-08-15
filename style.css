@@ -1,0 +1,43 @@
+.sunny-sky{
+   height:100vh;
+   background-image:url("sky.jpg");
+   background-attachment:fixed;
+   background-size:cover;
+}
+
+.rock{
+   height:100vh;
+   background-image:url("rock.jpg");
+   background-attachment:fixed;
+   background-size:cover;
+}
+
+.code{
+   height:100vh;
+   background-image:url("code.jpg");
+   background-attachment:fixed;
+   background-size:cover;
+}
+
+.javascript{
+  height:100vh;
+  background-image:url("https://fossbytes.com/wp-content/uploads/2015/09/infographic-the-entire-javascript-language-in-one-single-image-491250-2.jpg");
+  background-attachment:fixed;
+  background-size:cover;
+}
+
+.white{
+  height:100vh;
+  background-image:url("https://image.freepik.com/free-vector/white-canvas-background_1053-239.jpg");
+  background-attachment: fixed;
+  background-size:color;
+}
+
+
+/*.parallax  {
+  position: relative;
+  height: 20vh;
+  background-attachment: fixed;
+  background-position:center;
+  background-size: cover;
+}*/
