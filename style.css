@@ -6,8 +6,8 @@
 }
 
 .rock{
-   height:100vh;
-   background-image:url("rock.jpg");
+   height:125vh;
+   background-image:url("https://unsplash.com/search/photos/mountains?photo=lSE4wkEnbWc");
    background-attachment:fixed;
    background-size:cover;
 }
@@ -28,13 +28,17 @@
 
 .ocean{
   height:100vh;
-  background-image:url("ocean.jpg");
+  background-image:url("https://unsplash.com/search/photos/mountains?photo=lSE4wkEnbWc");
   background-attachment:fixed;
   background-size:cover;
-  opacity:.5;
 }
 
-
+.mountain{
+  height:150vh;
+  background-image:url("mountain.jpg");
+  background-attachment:fixed;
+  background-size:cover;
+}
 
 .full-stack{
   height:50vh;
@@ -48,11 +52,59 @@
 body{
   font-family:'Kaushan Script',cursive;
   font-size: 5rem;
-  color:white;
+  color:black;
 
 
 }
 
+.portimg{
+ border: 15px solid black;
+ border-radius:15px;
+ 
+}
+
+img{
+  opacity:.75;
+}
+
+h2{
+  font-size:200%;
+  margin-bottom:5vh;
+  padding-top:5vh;
+  padding-bottom:5vh;
+  color:white;
+  background-color:rgba(0,0,0,.75); 
+}
+
+
+h3{
+  font-size:2.5rem;
+  color:white;
+  border-radius:15px;
+  margin-bottom:5vh;
+  background-color:rgba(0,0,0,.75); 
+}
+
+.row{
+  margin-bottom:5vh;
+}
+
+.lightgreen{
+  height:50vh;
+  background-color:#053E05;
+  background-attachment:fixed;
+  background-size:cover;
+}
+
+h1{
+  color:white;
+  font-size:150%;
+  background-color:rgba(0,0,0,.75); 
+}
+
+.title{
+  background-color:rgba(0,0,0,.75); 
+}
 /*.parallax  {
   position: relative;
   height: 20vh;
