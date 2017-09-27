@@ -34,7 +34,7 @@
 }
 
 .mountain{
-  height:150vh;
+  height:200vh;
   background-image:url("mountain.jpg");
   background-attachment:fixed;
   background-size:cover;
@@ -67,6 +67,9 @@ img{
   opacity:.75;
 }
 
+.gridworksgames{
+  opacity:1;
+}
 h2{
   font-size:200%;
   margin-bottom:5vh;
@@ -85,16 +88,27 @@ h3{
   background-color:rgba(0,0,0,.75); 
 }
 
-.row{
+/* .row{
   margin-bottom:5vh;
-}
+} */
 
 .lightgreen{
   height:50vh;
   background-color:#053E05;
   background-attachment:fixed;
   background-size:cover;
+
+
 }
+
+.lightgreen2{
+  height:100vh;
+  background-color:#053E05;
+  background-attachment:fixed;
+  background-size:cover;
+
+}
+
 
 h1{
   color:white;
