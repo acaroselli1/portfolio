@@ -121,6 +121,12 @@ h1{
 .title{
   background-color:rgba(0,0,0,.75); 
 }
+
+
+.resume{
+  color:white;
+  text-decoration:none;
+}
 /*.parallax  {
   position: relative;
   height: 20vh;

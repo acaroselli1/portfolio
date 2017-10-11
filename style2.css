@@ -1,0 +1,42 @@
+body{
+    font-family:Calibri;
+    font-size:18px;
+    margin:2vw;
+}
+
+.name{
+    font-size:30px;
+    font-weight:bold;
+}
+
+.header{
+    text-align:center;
+}
+
+.phone{
+    font-weight:bold;
+}
+
+.sub-header{
+    line-height:150%;
+}
+
+.objective{
+    font-weight:bold;
+}
+
+.summary{
+    font-weight:bold;
+}
+
+.employment{
+    font-weight:bold;
+}
+
+.education{
+    font-weight:bold;
+}
+
+.recognition{
+    font-weight:bold;
+}
